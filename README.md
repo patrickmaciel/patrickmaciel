@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/patrickmaciel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmaciel&show_icons=true&theme=merko &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmaciel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmaciel&layout=compact&langs_count=7&theme=merko "/>
 </div>
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   ##
  
   <a href="https://www.linkedin.com/in/patrickmaciel" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/671670?v=4" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/671670?v=4" target="_blank" width="75px">
   </a> 
  
   ![Snake animation](https://github.com/patrickmaciel/patrickmaciel/blob/output/github-contribution-grid-snake.svg)
