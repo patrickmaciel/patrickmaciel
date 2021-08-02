@@ -1,4 +1,8 @@
-### Hi there 👋 My name is Patrick 😁
+### Opa, e ai? Patrick aqui!
+
+<p>Programador FullStack (frontend, backend, devops) com mais de 15 anos de experiência. As tecnologias que estou utilizando atualmente são: <strong>PHP, Laravel, React, Vue, Python</strong></p>
+
+<hr>
 
 <div>
   <a href="https://github.com/patrickmaciel">
