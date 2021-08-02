@@ -20,7 +20,6 @@
   <a href="https://www.linkedin.com/in/patrickmaciel" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/671670?v=4" target="_blank" width="75px">
   </a> 
- 
-  ![Snake animation](https://github.com/patrickmaciel/patrickmaciel/blob/output/github-contribution-grid-snake.svg)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/patrickmaciel/patrickmaciel)](https://badges.pufler.dev)
