@@ -2,6 +2,8 @@
 
 <p>Programador FullStack (frontend, backend, devops) com mais de 15 anos de experiência. As tecnologias que estou utilizando atualmente são: <strong>PHP, Laravel, React, Vue, Python</strong></p>
 
+<p><em>FullStack Developer (frontend, backend, devops) with more than 15 years of experience. I'm currently using these tecnologies: <strong>PHP, Laravel, React, Vue, Python</strong></em></p>
+
 <hr>
 
 <div>
