@@ -1,4 +1,4 @@
-### Opa, e ai? Patrick aqui!
+### Hello World! What's up? Patrick here!
 
 <p>Programador FullStack (frontend, backend, devops) com mais de 15 anos de experiência. As tecnologias que estou utilizando atualmente são: <strong>PHP, Laravel, React, Vue, Python</strong></p>
 
