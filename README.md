@@ -9,6 +9,7 @@
 <div>
   <a href="https://github.com/patrickmaciel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmaciel&layout=compact&langs_count=7&theme=merko "/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick Maciel - PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
