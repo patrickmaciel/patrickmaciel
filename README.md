@@ -1,16 +1,11 @@
 ### Hello World! What's up? Patrick here!
 
-<p>Programador FullStack (frontend, backend, devops) com mais de 15 anos de experiência. As tecnologias que estou utilizando atualmente são: <strong>PHP, Laravel, React, Vue, Python</strong></p>
+<p>Programador FullStack (frontend, backend, devops) com mais de 18 anos de experiência. As tecnologias que estou utilizando atualmente são: <strong>PHP, Laravel, Java, Spring Boot, React, Vue, Python</strong></p>
 
-<p><em>FullStack Developer (frontend, backend, DevOps) with more than 15 years of experience. I'm currently using these technologies: <strong>PHP, Laravel, React, Vue, Python</strong></em></p>
+<p><em>FullStack Developer (frontend, backend, DevOps) with more than 18 years of experience. I'm currently using these technologies: <strong>PHP, Laravel, Java, Spring Boot, React, Vue, Python</strong></em></p>
 
 <hr>
 
-<div>
-  <a href="https://github.com/patrickmaciel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmaciel&layout=compact&langs_count=7&theme=merko "/>
-  </a>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick Maciel - PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Patrick Maciel - Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
